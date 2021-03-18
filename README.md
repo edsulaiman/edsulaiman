@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @edsulaiman
+- 👀 I’m interested in Cross Platform UI Framework
+- 🌱 I’m currently learning Flutter and Blazor
